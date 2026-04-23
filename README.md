@@ -4,7 +4,6 @@
 This project analyzes long-term trends in U.S. immigration using historical data. The analysis focuses on lawful permanent residents, refugee arrivals, and noncitizen enforcement actions to understand how immigration patterns and enforcement activities have evolved over time.
 
 The project presents insights through interactive Power BI dashboards designed for non-technical stakeholders.
-
 ---
 
 ## Objective
@@ -12,7 +11,6 @@ The project presents insights through interactive Power BI dashboards designed f
 - Examine noncitizen enforcement metrics including apprehensions, removals, and returns  
 - Identify long-term patterns and fluctuations across immigration categories  
 - Communicate insights clearly through visual dashboards  
-
 ---
 
 ## Dataset
